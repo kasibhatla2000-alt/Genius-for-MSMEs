@@ -7,7 +7,7 @@ Status: prototype on synthetic data. Not an official Zoho product and not for re
 **Run the prototype**
 
 1. Open the notebook in Colab: [Open in Colab]
-   (https://colab.research.google.com/github/kasibhatla2000-alt/Genius-for-zoho/blob/main/Genius_prototype.ipynb)
+   (https://colab.research.google.com/github/kasibhatla2000-alt/Genius-for-MSMEs/blob/main/Genius_prototype.ipynb)
 3. Choose Runtime → Run all. The first run builds the synthetic database and takes a few minutes; later runs load a cache.
 4. Open the link printed by the last cell. The link is temporary: re-run the last cell for a new one.
    
