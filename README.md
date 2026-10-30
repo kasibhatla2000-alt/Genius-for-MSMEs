@@ -1,4 +1,4 @@
-# Genius-for-zoho
+# Genius for MSMEs
 Ledger-native credit scoring and loan quotes for Indian MSMEs. NUS BMF5342 Group 4 prototype (synthetic data).
 
 **NUS MSc Finance · BMF5342 Financial Technology, Analytics, and AI · Group 4**
