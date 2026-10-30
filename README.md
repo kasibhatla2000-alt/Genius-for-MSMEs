@@ -2,12 +2,7 @@
 Ledger-native credit scoring and loan quotes for Indian MSMEs. NUS BMF5342 Group 4 prototype (synthetic data).
 
 **NUS MSc Finance · BMF5342 Financial Technology, Analytics, and AI · Group 4**
-Status: prototype on synthetic data. Not an official Zoho product and not for real lending decisions.
-
-**Authors**
-
-1. Shreya Kasibhatla
-2. Vivan Pande
+Status: prototype on synthetic data. Not an official Zoho product and not for real lending decisions. Authors: Shreya Kasibhatla, Vivan Pande
 
 **Run the prototype**
 
